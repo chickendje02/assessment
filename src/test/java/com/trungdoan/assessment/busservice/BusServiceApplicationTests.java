@@ -1,10 +1,10 @@
-package com.trungdoan.assessment.testservice;
+package com.trungdoan.assessment.busservice;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class TestServiceApplicationTests {
+class BusServiceApplicationTests {
 
 	@Test
 	void contextLoads() {
